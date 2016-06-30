@@ -6,13 +6,11 @@ A living systematic review
 
 The assessment of efficacy was limited...
 
-Method	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
+Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
-Bioreactance	               | 80 | 79 | 0.881 | 79 | 80
-Proportional pulse pressure  | 62 | 85 | 0.817 | 81 | 40
-Shock index	                 | 81 | 54 | 0.791 | 64 | 26
-Central venous pressure (static)*    |   |   | 0.56  |   |  
-\* PMID: [20111858,23774337](http://pubmed.gov/20111858,23774337)
+One week	               | 80 | 79 | 0.881 | 79 | 80
+One month  | 62 | 85 | 0.817 | 81 | 40
+One year                 | 81 | 54 | 0.791 | 64 | 26
 
 [Keep current with this topic](Keep-up.md)
 
@@ -30,8 +28,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Mortality-prediction-using-the-surprise-question/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
-
+![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Mortality-prediction-using-the-surprise-question/master/forest-plots/Outcome-Primary.svg "Principle results for diagnostic accuracy]")
 
 References:
 ----------------------------------
