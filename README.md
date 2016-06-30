@@ -28,7 +28,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for diagnostic accuracy](https://github.com/openMetaAnalysis/Mortality-prediction-using-the-surprise-question/blob/master/forest-plots/Outcome-Primary.svg "Principle results for diagnostic accuracy]")
+![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Mortality-prediction-using-the-surprise-question/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
 
 References:
 ----------------------------------
