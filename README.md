@@ -34,7 +34,7 @@ References:
 ----------------------------------
 ### Systematic review(s)
 ####Most recent review(s) at time of last revision of this repository
-1. None
+1. (*did not include the 'surpirse question'*) Yourman LC, Lee SJ, Schonberg MA, Widera EW, Smith AK. Prognostic indices for older adults: a systematic review. JAMA. 2012 Jan 11;307(2):182-92. doi: [10.1001/jama.2011.1966](http://dx.doi.org/10.1001/jama.2011.1966). PMID: [22235089](http://pubmed.gov/22235089); PMCID: PMC3792853.
 
 ### Diagnostic tests assessments
 1. Pending
@@ -42,11 +42,11 @@ References:
 #### New study(s) undergoing review
 1. Moss AH, Lunney JR, Culp S, Auber M, Kurian S, Rogers J, Dower J, Abraham J.
 Prognostic significance of the "surprise" question in cancer patients. J Palliat 
-Med. 2010 Jul;13(7):837-40. doi: 10.1089/jpm.2010.0018. PMID: 20636154.
+Med. 2010 Jul;13(7):837-40. doi: 10.1089/jpm.2010.0018. PMID: [20636154](http://pubmed.gov/20636154).
 2. Moss AH, Ganjoo J, Sharma S, Gansor J, Senft S, Weaner B, Dalton C, MacKay K, 
 Pellegrino B, Anantharaman P, Schmidt R. Utility of the "surprise" question to
 identify dialysis patients with high mortality. Clin J Am Soc Nephrol. 2008
-Sep;3(5):1379-84. doi: 10.2215/CJN.00940208. PMID: 18596118
+Sep;3(5):1379-84. doi: 10.2215/CJN.00940208. PMID: [18596118](http://pubmed.gov/18596118)
 3. Hamano J, Morita T, Inoue S, Ikenaga M, Matsumoto Y, Sekine R, Yamaguchi T,
 Hirohashi T, Tajima T, Tatara R, Watanabe H, Otani H, Takigawa C, Matsuda Y,
 Nagaoka H, Mori M, Yamamoto N, Shimizu M, Sasara T, Kinoshita H. Surprise
