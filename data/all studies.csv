@@ -1,4 +1,4 @@
 Study,Year,PMID,TP,FP,FN,TN, Patients,Raters, Horizon,
-Moss, 2010, 20636154, 53, 75, 18, 688, 'Oncology','Faculty oncologists', '12 months',
-Moss, 2008, 18596118, 19, 24, 12, 101, 'Dialysis','Nurse practioners', '12 months',
+Moss,   2010, 20636154,   53,  75, 18, 688, 'Oncology','Faculty oncologists',        '12 months',
+Moss,   2008, 18596118,   19,  24, 12, 101, 'Dialysis','Nurse practioners',          '12 months',
 Hamano, 2015, 26054631, 1066, 785, 49, 461, 'Oncology','Palliative care physicians', '30 days',
