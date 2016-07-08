@@ -1,3 +1,2 @@
-Study,Year,PMID,TP,FP,FN,TN, Cofactor1,Cofactor2, Cofactor3,
-Moss, 2010, 20636154, 53, 71, 131, 750, 755, 'Oncology','Faculty', '12 months'
-
+Study,Year,PMID,TP,FP,FN,TN, Patients,Raters, Horizon,
+Moss, 2010, 20636154, 53, 71, 75, 755, 'Oncology','Faculty', '12 months',
