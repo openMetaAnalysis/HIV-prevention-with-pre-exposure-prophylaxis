@@ -46,19 +46,19 @@ Sep;3(5):1379-84. doi: 10.2215/CJN.00940208. PMID: [18596118](http://pubmed.gov/
 Questions for Survival Prediction in Patients With Advanced Cancer: A Multicenter Prospective Cohort Study. Oncologist. 2015 Jul;20(7):839-44. doi: 10.1634/theoncologist.2015-0015. PMID:  [26054631](http://pubmed.gov/26054631)
 4. Moroni M, Zocchi D, Bolognesi D, Abernethy A, Rondelli R, Savorani G, Salera M, Dall'Olio FG, Galli G, Biasco G; on behalf of the SUQ-P group. The 'surprise' question in advanced cancer patients: A prospective study among general practitioners. Palliat Med. 2014 Mar 24;28(7):959-964. PMID: [24662237](http://pubmed.gov/24662237).
 5. Cohen LM, Ruthazer R, Moss AH, Germain MJ. Predicting six-month mortality for patients who are on maintenance hemodialysis. Clin J Am Soc Nephrol. 2010 Jan;5(1):72-9. doi: 10.2215/CJN.03860609. Epub 2009 Dec 3. PMID: [19965531](http://pubmed.gov/19965531)
+6. Barnes S, Gott M, Payne S, Parker C, Seamark D, Gariballa S, Small N. Predicting mortality among a general practice-based sample of older people with heart failure. Chronic Illn. 2008 Mar;4(1):5-12. doi: 10.1177/1742395307083783. PubMed PMID: [18322025](http://pubmed.gov/18322025)
 
 #### New study(s) undergoing review
 1. Feyi K, Klinger S, Pharro G, Mcnally L, James A, Gretton K, Almond MK. Predicting palliative care needs and mortality in end stage renal disease: use of an at-risk register. BMJ Support Palliat Care. 2015 Mar;5(1):19-25. doi: 10.1136/bmjspcare-2011-000165. Epub 2013 Mar 12. Erratum in: BMJ Support Palliat  Care. 2015 Jun;5(2):206. PMID: [24644161](http://pubmed.gov/24644161).
 2. Da Silva Gane M, Braun A, Stott D, Wellsted D, Farrington K. How robust is the 'surprise question' in predicting short-term mortality risk in haemodialysis patients? Nephron Clin Pract. 2013;123(3-4):185-93. doi: 10.1159/000353735. Epub 2013 Aug 6. PMID: [23921223](http://pubmed.gov/23921223).
-3. Hubbard G. The 'surprise question' in end-of-life care. Br J Community Nurs. 2011 Mar;16(3):109. PMID: [21378648](http://pubmed.gov/21378648).
-4. Rhee J, Clayton JM. The 'surprise' question may improve the accuracy of GPs in identifying death in patients with advanced stage IV solid-cell cancer. Evid Based Med. 2015 Apr;20(2):71. doi: 10.1136/ebmed-2014-110114. PMID: [25732563](http://pubmed.gov/25732563).
-5. Barnes S, Gott M, Payne S, Parker C, Seamark D, Gariballa S, Small N. Predicting mortality among a general practice-based sample of older people with heart failure. Chronic Illn. 2008 Mar;4(1):5-12. doi: 10.1177/1742395307083783. PubMed PMID: [18322025](http://pubmed.gov/18322025)
 
 #### New study(s) *excluded* 
 1. Elliott M, Nicholson C. A qualitative study exploring use of the surprise question in the care of older people: perceptions of general practitioners and challenges for practice. BMJ Support Palliat Care. 2014 Aug 28. pii:
 bmjspcare-2014-000679. doi: 10.1136/bmjspcare-2014-000679. PMID: [25168076](http://pubmed.gov/25168076).
 2. Small N, Gardiner C, Barnes S, Gott M, Payne S, Seamark D, Halpin D. Using a prediction of death in the next 12 months as a prompt for referral to palliative care acts to the detriment of patients with heart failure and chronic obstructive
 pulmonary disease. Palliat Med. 2010 Oct;24(7):740-1. doi: 10.1177/0269216310375861. PMID: [20921093](http://pubmed.gov/20921093).
+3. Rhee J, Clayton JM. The 'surprise' question may improve the accuracy of GPs in identifying death in patients with advanced stage IV solid-cell cancer. Evid Based Med. 2015 Apr;20(2):71. doi: 10.1136/ebmed-2014-110114. PMID: [25732563](http://pubmed.gov/25732563).
+4. Hubbard G. The 'surprise question' in end-of-life care. Br J Community Nurs. 2011 Mar;16(3):109. PMID: [21378648](http://pubmed.gov/21378648).
 
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [History](../../commits/master/README.md)  - 
