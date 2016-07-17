@@ -8,10 +8,10 @@ Regarding overall accuracy, the area under the ROC curve for predicting death at
 
 The assessment of diagnostic accuracy was limited by ...
 
-Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 50%) | 1- Negative predictive value</br>(at prevalence of 50%)
+Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 15%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
 One month (Hamano)       | 96 | 37 |       |    |   
-One year                 | 71 | 89 | 0.886 | 42 | 3.7
+One year (4 studies)     | 77 | 82 | 0.889 | 43 | 5
 Two years (Cohen)        | 38 | 91 |       |    | 
 
 [Keep current with this topic](Keep-up.md)
