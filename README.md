@@ -11,7 +11,7 @@ The assessment of diagnostic accuracy was limited by ...
 Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 15%) | 1- Negative predictive value</br>(at prevalence of 50%)
 | -------------------------- |:--:|:--:|:-----:|:--:|:--:|
 One month (Hamano)       | 96 | 37 |       |    |   
-One year (4 studies)     | 77 | 82 | 0.889 | 43 | 5
+One year (5 studies)     | 77 | 80 | 0.89  | 41 | 5
 Two years (Cohen)        | 38 | 91 |       |    | 
 
 [Keep current with this topic](Keep-up.md)
@@ -47,10 +47,10 @@ Questions for Survival Prediction in Patients With Advanced Cancer: A Multicente
 4. Moroni M, Zocchi D, Bolognesi D, Abernethy A, Rondelli R, Savorani G, Salera M, Dall'Olio FG, Galli G, Biasco G; on behalf of the SUQ-P group. The 'surprise' question in advanced cancer patients: A prospective study among general practitioners. Palliat Med. 2014 Mar 24;28(7):959-964. PMID: [24662237](http://pubmed.gov/24662237).
 5. Cohen LM, Ruthazer R, Moss AH, Germain MJ. Predicting six-month mortality for patients who are on maintenance hemodialysis. Clin J Am Soc Nephrol. 2010 Jan;5(1):72-9. doi: 10.2215/CJN.03860609. Epub 2009 Dec 3. PMID: [19965531](http://pubmed.gov/19965531)
 6. Barnes S, Gott M, Payne S, Parker C, Seamark D, Gariballa S, Small N. Predicting mortality among a general practice-based sample of older people with heart failure. Chronic Illn. 2008 Mar;4(1):5-12. doi: 10.1177/1742395307083783. PubMed PMID: [18322025](http://pubmed.gov/18322025)
+7. Da Silva Gane M, Braun A, Stott D, Wellsted D, Farrington K. How robust is the 'surprise question' in predicting short-term mortality risk in haemodialysis patients? Nephron Clin Pract. 2013;123(3-4):185-93. doi: 10.1159/000353735. Epub 2013 Aug 6. PMID: [23921223](http://pubmed.gov/23921223).
 
 #### New study(s) undergoing review
 1. Feyi K, Klinger S, Pharro G, Mcnally L, James A, Gretton K, Almond MK. Predicting palliative care needs and mortality in end stage renal disease: use of an at-risk register. BMJ Support Palliat Care. 2015 Mar;5(1):19-25. doi: 10.1136/bmjspcare-2011-000165. Epub 2013 Mar 12. Erratum in: BMJ Support Palliat  Care. 2015 Jun;5(2):206. PMID: [24644161](http://pubmed.gov/24644161).
-2. Da Silva Gane M, Braun A, Stott D, Wellsted D, Farrington K. How robust is the 'surprise question' in predicting short-term mortality risk in haemodialysis patients? Nephron Clin Pract. 2013;123(3-4):185-93. doi: 10.1159/000353735. Epub 2013 Aug 6. PMID: [23921223](http://pubmed.gov/23921223).
 
 #### New study(s) *excluded* 
 1. Elliott M, Nicholson C. A qualitative study exploring use of the surprise question in the care of older people: perceptions of general practitioners and challenges for practice. BMJ Support Palliat Care. 2014 Aug 28. pii:
