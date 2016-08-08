@@ -52,8 +52,6 @@ Sep;3(5):1379-84. doi: 10.2215/CJN.00940208. PMID: [18596118](http://pubmed.gov/
 #### New study(s) undergoing review
 1. Feyi K, Klinger S, Pharro G, Mcnally L, James A, Gretton K, Almond MK. Predicting palliative care needs and mortality in end stage renal disease: use of an at-risk register. BMJ Support Palliat Care. 2015 Mar;5(1):19-25. doi: 10.1136/bmjspcare-2011-000165. Epub 2013 Mar 12. Erratum in: BMJ Support Palliat  Care. 2015 Jun;5(2):206. PMID: [24644161](http://pubmed.gov/24644161).
 2. Pang WF, Kwan BC, Chow KM, Leung CB, Li PK, Szeto CC. Predicting 12-month mortality for peritoneal dialysis patients using the "surprise" question. Perit Dial Int. 2013 Jan-Feb;33(1):60-6. doi: 10.3747/pdi.2011.00204. Epub 2012 Aug 1. PMID: [22855890](http://pubmed.gov/22855890)
-3. Moroni M, Zocchi D, Bolognesi D, Abernethy A, Rondelli R, Savorani Get al; on behalf of the SUQ-P group. The 'surprise' 
-question in advanced cancer patients: A prospective study among general practitioners. Palliat Med. 2014 Mar 24;28(7):959-964. PMID: [24662237](http://pubmed.gov/24662237)
 
 #### New study(s) *excluded* 
 1. Elliott M, Nicholson C. A qualitative study exploring use of the surprise question in the care of older people: perceptions of general practitioners and challenges for practice. BMJ Support Palliat Care. 2014 Aug 28. pii:
