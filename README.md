@@ -2,9 +2,9 @@
 
 A living systematic review
 
-**Clinical summary:** This meta-analysis suggests that this intervention is beneficial
+**Clinical summary:** This meta-analysis suggests that this intervention is beneficial; however, there is [substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm) heterogeneity that limits interpretation.
 
-Limitations are...
+Additional limitations are...
 
 Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 15%) | 1- Negative 
 
@@ -24,7 +24,7 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for diagnostic accuracy](https://raw.githubusercontent.com/openMetaAnalysis/Mortality-prediction-using-the-surprise-question/master/forest-plots/Outcome-Primary.png "Principle results for diagnostic accuracy]")
+![Principle results for efficacy](https://raw.githubusercontent.com/openMetaAnalysis/HIV-prevention-with-pre-exposure-prophylaxis/master/forest-plots/Outcome-Primary.png "Principle results for efficacy]")
 
 References:
 ----------------------------------
