@@ -1,4 +1,4 @@
-Study,             Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor.Population,Cofactor.Medication
+Study,             Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor.Population,Cofactor.Medication,
 Peterson,           2007,17525796, 2, 469, 6, 467,Receptive,TDF-FTC,
 ,,,,,,,,,
 ,,,,,,,,To make forest plot:,
