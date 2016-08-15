@@ -1,5 +1,5 @@
-Study,             Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor,
-Peterson,           2007,17525796, 2, 469, 6, 467,Receptive,
+Study,             Year,PMID,experimental_events,experimental_total,control_events,control_total, Cofactor.Population,Cofactor.Medication
+Peterson,           2007,17525796, 2, 469, 6, 467,Receptive,,
 ,,,,,,,,
 ,,,,,,,* Used mortality other than 28 days,
 ,,,,,,,,
