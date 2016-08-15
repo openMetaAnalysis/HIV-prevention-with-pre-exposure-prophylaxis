@@ -37,8 +37,8 @@ PMID: [24498350](http://pubmed.gov/24498350)
 1. McCormack S, Dunn DT, Desai M, Dolling DI, Gafos M, Gilson R, et al. Pre-exposure prophylaxis to prevent 
 the acquisition of HIV-1 infection (PROUD): effec2. tiveness results from the pilot 
 phase of a pragmatic open-label randomised trial. Lancet. 2016 Jan
-2;387(10013):53-60. doi: 10.1016/S0140-6736(15)00056-2. PMID: [26364263](http://pubmed.gov/26364263); PMCID: PMC4700047
-2. Molina JM, Capitant C, Spire B, Pialoux G, Cotte L, Charreau I, et al; ANRS IPERGAY Study Group. On-Demand Preexposure Prophylaxis in Men at High Risk for HIV-1 Infection. N Engl J Med. 2015 Dec 3;373(23):2237-46. doi: 10.1056/NEJMoa1506273.  PMID: [26624850](http://pubmed.gov/26624850)
+2;387(10013):53-60. doi: [10.1016/S0140-6736(15)00056-2](http://dx.doi.org/10.1016/S0140-6736(15)00056-2). PMID: [26364263](http://pubmed.gov/26364263); PMCID: [PMC4700047](http://www.ncbi.nlm.nih.gov/pmc/PMC4700047)
+2. Molina JM, Capitant C, Spire B, Pialoux G, Cotte L, Charreau I, et al; ANRS IPERGAY Study Group. On-Demand Preexposure Prophylaxis in Men at High Risk for HIV-1 Infection. N Engl J Med. 2015 Dec 3;373(23):2237-46. doi: [10.1056/NEJMoa1506273](http://dx.doi.org/10.1056/NEJMoa1506273).  PMID: [26624850](http://pubmed.gov/26624850)
 
 #### New study(s) *excluded* 
 
