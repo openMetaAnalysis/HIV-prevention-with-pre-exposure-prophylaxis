@@ -6,8 +6,6 @@ A living systematic review
 
 Additional limitations are...
 
-Time-frame	| Sensitivity|Specificity| Area under the ROC curve|Positive predictive value</br>(at prevalence of 15%) | 1- Negative 
-
 [Keep current with this topic](Keep-up.md)
 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
