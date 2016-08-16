@@ -35,10 +35,11 @@ PMID: [24498350](http://pubmed.gov/24498350)
 
 #### New study(s) undergoing review
 1. McCormack S, Dunn DT, Desai M, Dolling DI, Gafos M, Gilson R, et al. Pre-exposure prophylaxis to prevent 
-the acquisition of HIV-1 infection (PROUD): effec2. tiveness results from the pilot 
-phase of a pragmatic open-label randomised trial. Lancet. 2016 Jan
-2;387(10013):53-60. doi: [10.1016/S0140-6736(15)00056-2](http://dx.doi.org/10.1016/S0140-6736(15)00056-2). PMID: [26364263](http://pubmed.gov/26364263); PMCID: [PMC4700047](http://www.ncbi.nlm.nih.gov/pmc/PMC4700047)
+the acquisition of HIV-1 infection (PROUD): effec2. tiveness results from the pilot phase of a pragmatic open-label randomised trial. Lancet. 2016 Jan 2;387(10013):53-60. doi: [10.1016/S0140-6736(15)00056-2](http://dx.doi.org/10.1016/S0140-6736(15)00056-2). PMID: [26364263](http://pubmed.gov/26364263); PMCID: [PMC4700047](http://www.ncbi.nlm.nih.gov/pmc/PMC4700047)
 2. Molina JM, Capitant C, Spire B, Pialoux G, Cotte L, Charreau I, et al; ANRS IPERGAY Study Group. On-Demand Preexposure Prophylaxis in Men at High Risk for HIV-1 Infection. N Engl J Med. 2015 Dec 3;373(23):2237-46. doi: [10.1056/NEJMoa1506273](http://dx.doi.org/10.1056/NEJMoa1506273).  PMID: [26624850](http://pubmed.gov/26624850)
+3. Marrazzo JM, Ramjee G, Richardson BA, Gomez K, Mgodi N, Nair G, et al; VOICE Study Team.
+Tenofovir-based preexposure prophylaxis for HIV infection among African women. N 
+Engl J Med. 2015 Feb 5;372(6):509-18. doi: [10.1056/NEJMoa1402269](http://dx.doi.org/10.1056/NEJMoa1402269). PMID: [25651245](http://pubmed.gov/25651245); PMCID: [PMC4341965](http://www.ncbi.nlm.nih.gov/pmc/PMC4341965)
 
 #### New study(s) *excluded* 
 
