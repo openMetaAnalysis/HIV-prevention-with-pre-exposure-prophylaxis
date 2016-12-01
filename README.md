@@ -40,7 +40,8 @@ the acquisition of HIV-1 infection (PROUD): effectiveness results from the pilot
 3. Marrazzo JM, Ramjee G, Richardson BA, Gomez K, Mgodi N, Nair G, et al; VOICE Study Team.
 Tenofovir-based preexposure prophylaxis for HIV infection among African women. N 
 Engl J Med. 2015 Feb 5;372(6):509-18. doi: [10.1056/NEJMoa1402269](http://dx.doi.org/10.1056/NEJMoa1402269). PMID: [25651245](http://pubmed.gov/25651245); PMCID: [PMC4341965](http://www.ncbi.nlm.nih.gov/pmc/PMC4341965)
-4. MTN-020–ASPIRE. Use of a Vaginal Ring Containing Dapivirine for HIV-1 Prevention in Women. N Engl J Med 2016; 375:2121-2132 DOI: [10.1056/NEJMoa1506110](http://dx.doi.org/10.1056/NEJMoa1506110)
+4. Baeten JM, Palanee-Phillips T, Brown ER, Schwartz K, Soto-Torres LE, Govender V, et al; MTN-020–ASPIRE Study Team. Use of a Vaginal Ring Containing Dapivirine for HIV-1 Prevention in Women. N Engl J Med. 2016 Feb 22. PMID: [2690090](https://pubmed.gov/2690090) DOI: [10.1056/NEJMoa1506110](http://dx.doi.org/10.1056/NEJMoa1506110)
+5. Nel (Ring Study Team). Safety and Efficacy of a Dapivirine Vaginal Ring for HIV Prevention in Women. N Engl J Med. 2016   DOI: [10.1056/NEJMoa1602046](http://dx.doi.org/10.1056/NEJMoa1602046)
 
 #### New study(s) *excluded* 
 
