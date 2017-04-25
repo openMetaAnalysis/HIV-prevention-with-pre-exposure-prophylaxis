@@ -26,6 +26,7 @@ References:
 #### Most recent review(s) at time of last revision of this repository
 1. Jiang J, Yang X, Ye L, Zhou B, Ning C, Huang J et al. Pre-exposure prophylaxis for the prevention of HIV infection in high risk populations: a meta-analysis of randomized controlled trials. PLoS One. 2014 Feb 3;9(2):e87674. doi: [10.1371/journal.pone.0087674](http://dx.doi.org/10.1371/journal.pone.0087674).
 PMID: [24498350](http://pubmed.gov/24498350)
+2. Okwundu CI, Uthman OA, Okoromah CA. Antiretroviral pre-exposure prophylaxis (PrEP) for preventing HIV in high-risk individuals. Cochrane Database Syst Rev. 2012 Jul 11;(7):CD007189. doi: [10.1002/14651858.CD007189.pub3](http://dx.doi.org/10.1002/14651858.CD007189.pub3). PMID: [22786505](http://pubmed.gov/22786505)
 
 ### Trials
 
