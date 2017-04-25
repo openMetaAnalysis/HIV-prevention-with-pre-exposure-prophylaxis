@@ -18,7 +18,11 @@ A living systematic review
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
-![Principle results for efficacy](https://raw.githubusercontent.com/openMetaAnalysis/HIV-prevention-with-pre-exposure-prophylaxis/master/forest-plots/Outcome-Primary.png "Principle results for efficacy]")
+The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
+![Principle results](files/forest-plots/Outcome-Primary.png)
+
+The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
+![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
