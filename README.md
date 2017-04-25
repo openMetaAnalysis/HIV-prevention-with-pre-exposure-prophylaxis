@@ -4,21 +4,17 @@ A living systematic review
 
 **Clinical summary:** This meta-analysis suggests that this intervention is beneficial; however, there is [substantial](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm) heterogeneity that limits interpretation.
 
-Additional limitations are...
+[Keep current with this topic](files/searching/Keep-up.md) (not available)
 
-[Keep current with this topic](Keep-up.md)
-
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published meta-analysis.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
-
-This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
-
-See [methods](http://openmetaanalysis.github.io/methods.html) for details.
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+* [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
+* [Evidence search](files/searching/evidence-search.md) for this review
 
 **Results:** Details of the studies included are in the:
-* [Description of studies (PICO table)](../../tree/master/study-details/pico-table.md)
-* [Risk of bias assessment](../../tree/master/study-details/risk-of-bias.md)
-* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
-* [Reconcliation of conclusions and trials included with prior meta-analyses](../../tree/master/reconcilation-tables)
+* [Description of studies (PICO table)](files/study-details/pico-table.md) (under construction)
+* [Risk of bias assessment](files/study-details/risk-of-bias.md) (under construction)
+* [Forest plots](../master/files/forest-plots) ([source data](files/data))
+* [Reconciliation of conclusions and trials included with prior meta-analyses](files/reconciliation-tables) (under construction)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 
@@ -27,7 +23,7 @@ The forest plot for the primary outcome is below. Additional [forest plots](../.
 References:
 ----------------------------------
 ### Systematic review(s)
-####Most recent review(s) at time of last revision of this repository
+#### Most recent review(s) at time of last revision of this repository
 1. Jiang J, Yang X, Ye L, Zhou B, Ning C, Huang J et al. Pre-exposure prophylaxis for the prevention of HIV infection in high risk populations: a meta-analysis of randomized controlled trials. PLoS One. 2014 Feb 3;9(2):e87674. doi: [10.1371/journal.pone.0087674](http://dx.doi.org/10.1371/journal.pone.0087674).
 PMID: [24498350](http://pubmed.gov/24498350)
 
